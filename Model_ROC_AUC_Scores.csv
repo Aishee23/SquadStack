@@ -1,0 +1,5 @@
+Model,ROC-AUC Score
+Logistic Regression,0.9481796525730695
+Decision Tree,1.0
+Random Forest,0.9991044202480792
+SVM,0.8631394602591017
